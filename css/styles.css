@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  font-size: 18px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f2f3f5;
+}
+.navbar{
+  padding: 1%;
+}
+
+.nav-item{
+  padding: 1%;
+}
+
+.nav-link{
+  font-family: Montserrat-light;
+  font-size: 1.5rem;
+  padding: 1%;
+}
+
+#title{
+  background-color: #212529;
+  color: white;
+  padding: 5%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#title2{
+  background-color: #212529;
+  color: white;
+  padding: 5%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#testimonials{
+  padding: 5%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-size: 45px;
+font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  font-size: 25px;
+font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+  font-size: 21px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  font-size: 19px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border: dotted #0492c2;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto 50px auto;
+}
+
+.top-container {
+  background-color: #f2f3f5;
+  position: relative;
+  padding: 5%;
+  color: black;
+}
+
+.begin{
+  padding: 5%;
+}
+
+.container-fluid {
+  padding: 5%;
+}
+
+#section{
+  padding: 5%;
+}
+
+#des{
+  padding: 5%;
+}
+
+.box{
+  text-align: center;
+  padding: 5%;
+}
+
+/* title section */
+
+#title{
+  padding: 2%;
+}
+
+.title-img{
+  width: 21%;
+  padding-top: 2%;
+}
+
+/* footer section */
+
+#footer{
+  font-size: 10px;
+  padding: 1%;
+}
+
+#download{
+  padding: 5%;
+}
+
+.download{
+  padding-left: 5%;
+  padding-right: 5%;
+}
